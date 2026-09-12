@@ -31,13 +31,25 @@ Basic principles:
 
 ### Diseases 
 
-Though every round should have a mild disease or two, these should usually be ignorable or at worst inconvenient, whereas a severe disease counts as a round-defining major 'antagonist' and should be its own game mode.
+In any place where a large number of living creatures are stuck together in a small area, diseases are a fact of life, and space stations are no exception. Especially those space stations that tend to get trash and puddles of unknown slop all over the floor. Or random corpses rotting in a corner of maints.
 
-Janitors should be the station's first line of defense against contagion. Diseases show up at unsanitary locations or on unsanitary objects: Trash, spilled liquids, rotten corpses (but not fresh ones), spoiled food, grimy tiles, and so forth. Players should have some agency in their ability to avoid disease by wearing appropriate protection, (For instance: rubber gloves, surgical masks,) and by staying away from unhygeinic locations. If a player catches a disease, they should find out only when symptoms develop; symptoms are what make the disease interesting and interactive. There should be no direct "oh, I have a disease, better run to medbay" - instead, it will be a player's job to figure out when and if a medbay visit is appropriate. Initial symptoms shouldn't usually reveal how severe the disease is, either. A slight cough or sore throat might be the only symptoms they'll get, or they might be the harbingers of deadly plague. Usually, though, it should be the former. The balance should be such that a player who gets a disease shouldn't feel that running to medbay for every runny nose is the pragmatic option.
+Fortunately, most diseases are minor: Barring disease-focused game modes, a typical player experience will be that they start showing a mild symptom - say, a light cough - and then it goes away after a little while. Maybe they wear a face mask to help prevent it from spreading, or maybe they don't and a couple other people in the department catch it too. 
 
-Diseases will not harm their victims directly. All damage will be a secondary effect of the disease's symptoms. For instance, a fever might cause the victim's body to heat up; it will not cause direct heat damage, though the heating effect might itself cause heat damage. This means that a patient with a disease can be treated with normal medical interventions to control the symptoms, and if the symptoms are kept under control, will recover naturally. This way, there is flexibility in how players can approach treatment, and also possibilities for emergent complexity: The disease that makes its victims heat up when the station is already overheating, the symptoms that compound with each other to create unique problems, and so on.
+This is common enough to be no big deal.
 
-Viral diseases will require a vaccine to be developed. Bacterial diseases can be treated with antibacterials.
+Sometimes, the player will find that the disease is a bit worse than they thought. They'll develop a fever, perhaps. They might decide to go to medbay. At medbay, the doctors will keep the symptom in check - say, by making sure the patient doesn't overheat - and once it subsides, that's that. They might keep the patient around for a bit, but most likely they can give them something to help and send them on their way.
+
+Alternatively, they might decide they can handle it on their own, either by finding some way to keep their own temperature down (for instance,) or maybe just by gritting their teeth/beak/whatever and suffering through. It's up to them to determine if and when a medbay visit is warranted.
+
+This is less common, but still not unusual. Still common enough that if it happens, players don't feel the need to start sounding the alarm. It's probably not a terrible death plague.
+
+If they're too negligent, and spread it around too much, it might mutate into something that's actually a bit of an issue. Not round-defining, but maybe serious enough for medbay to have to sit up and pay attention. Maybe virology comes into play, maybe not.
+
+In extreme cases, where the crew are wading through sewage as they walk down the hall and sneezing on each other for laughs, this might become a real, serious issue. The disease might spread, grow and mutate until a significant portion of the station is infected. The symptoms might go from inconvenient, to genuinely life-threatening. That, however, is in the hands of the players. If it gets to that point, it's because they collectively let it get to that point.
+
+Or it's a disease-based game mode, of course.
+
+Regardless, catching a disease or not isn't totally the whim of the RNG gods. Players have some agency here. They can reduce the risk of getting sick by avoiding the filthier parts of the station, or by wearing protective gear, like rubber gloves.
 
 ### Contagion
 
